@@ -1,0 +1,85 @@
+.content{
+    color: red;
+}
+.container{
+    height: 100vh;
+    width: 500px;
+}
+.container  form {
+    position: relative;
+    top: 150px;
+    left: 80%;
+}
+.btn {
+    height: 30px;
+    width: 55px;
+    background: #04c1e6;
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #30aa33;
+}
+a:hover {
+    color: #04c1e6;
+}
+.chooseuser {
+    text-align: center;
+    position: relative;
+    top: 250px;
+    left: 80%;
+    height: 100px;
+}
+.registation{
+  Width:95%;
+}
+p{
+    color: red;
+}
+table{
+    width: 100% !important;
+    height: 650px !important;
+}
+body{
+    background: #cedbfc;
+}
+.top {
+    background: lightblue;
+    height: 80px;
+}
+ul,li{
+   
+        list-style-type: none;
+        margin-bottom: 29px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.text {
+    left: 95%;
+    position: relative;
+   
+}
+.viewbtn {
+    height: 30px;
+    width: 120px;
+    background: #04c1e6;
+    margin: 10px;
+}
+
+.Nviewbtn {
+    height: 30px !important;
+    width: 120px!important;
+    background: #04c1e6!important;
+    margin: 10px!important;
+}
